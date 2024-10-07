@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# This works for Vite-based React projects currently
+# This works for Vite-based React projects
 # Put this in your root folder of your project
 # run the command chmod +x get_code_context.sh
 # then run ./get_code_context.sh

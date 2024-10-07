@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# This works for next.js projects currently
+# This works for next.js projects
 # Put this in your root folder of your project
 # run the command chmod +x get_code_context.sh
 # then run ./get_code_context.sh
