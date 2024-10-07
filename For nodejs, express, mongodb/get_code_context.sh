@@ -20,7 +20,7 @@ fi
 directories=("src" "routes" "controllers" "models" "utils" "config" "middleware" "views")
 
 # List of file types to ignore
-ignore_files=("*.ico" "*.png" "*.jpg" "*.jpeg" "*.gif" "*.svg" "*.node_modules" "*.package.json" "*.gitignore" "*.README.md" "*.package-lock.json")
+ignore_files=("*.ico" "*.png" "*.jpg" "*.jpeg" "*.gif" "*.svg" "*.node_modules" "*.package.json" "*.gitignore" "*.README.md" "*.package-lock.json" "*.woff")
 
 # Recursive function to read files and append their content
 read_files() {

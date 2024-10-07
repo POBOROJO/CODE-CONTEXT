@@ -20,7 +20,7 @@ fi
 directories=("src")
 
 # List of file types to ignore
-ignore_files=("*.ico" "*.png" "*.jpg" "*.jpeg" "*.gif" "*.svg")
+ignore_files=("*.ico" "*.png" "*.jpg" "*.jpeg" "*.gif" "*.svg" "*.woff")
 
 # Recursive function to read files and append their content
 read_files() {

@@ -18,10 +18,10 @@ if [ -f "$output_file" ]; then
 fi
 
 # List of directories to look for
-directories=("components" "pages" "app" "api" "styles" "utils" "hooks" "constants" "services" "types")
+directories=("src" "components" "pages" "app" "api" "styles" "utils" "hooks" "constants" "services" "types" "libs")
 
 # List of file types to ignore
-ignore_files=("*.ico" "*.png" "*.jpg" "*.jpeg" "*.gif" "*.svg")
+ignore_files=("*.ico" "*.png" "*.jpg" "*.jpeg" "*.gif" "*.svg" "*.woff")
 
 # Recursive function to read files and append their content
 read_files() {
