@@ -4,6 +4,7 @@
 # Put this in your root folder of your project
 # run the command chmod +x get_code_context.sh
 # then run ./get_code_context.sh
+# without file tree
 
 # Use the current directory as the project directory
 project_dir=$(pwd)
